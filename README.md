@@ -54,8 +54,8 @@ I am an accomplished Electrical and Electronic Engineering graduate dedicated to
 
 ## Connect with Me 🔗
 
-- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/dhananjaya-adlb)
-- **Email:** [your.email@example.com](dhananjayalb123@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/dhananjaya-adlb]
+- **Email:** [dhananjayalb123@gmail.com]
 
 I am always open to discussing new projects, creative ideas, or opportunities. Feel free to reach out if you have any questions or just want to connect.
 
